@@ -1,0 +1,11 @@
+name: shinyproject
+title:
+username:
+account: aurorad
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8556251
+bundleId: 6953360
+url: https://aurorad.shinyapps.io/shinyproject/
+when: 1678735454.03068
+lastSyncTime: 1678735454.03069
